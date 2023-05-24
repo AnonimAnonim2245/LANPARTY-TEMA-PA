@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1684269456 source:c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\luca_plian_lanparty\pb8.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1684269414 source:c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\luca_plian_lanparty\lista.c
+	"lista.h"
+
+1684269414 c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\luca_plian_lanparty\lista.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1684867136 source:c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\lista.c
+	"lista.h"
+
+1684792861 c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\lista.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1684866613 source:c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\pb8.c
+	"lista.h"
+	"coada.h"
+	"stiva.h"
+	"tree5.h"
+
+1684862435 source:c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\coada.c
+	"coada.h"
+	"lista.h"
+
+1684273911 c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\coada.h
+	"lista.h"
+	"stiva.h"
+
+1684863045 source:c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\stiva.c
+	"stiva.h"
+	"lista.h"
+	"coada.h"
+
+1684792817 c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\stiva.h
+	"stiva.h"
+	"lista.h"
+
+1684275212 c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\tree.h
+	<stdio.h>
+	<stdlib.h>
+
+1684276818 c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\tree2.h
+	"stiva.h"
+
+1684866016 c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\tree5.h
+	"tree5.h"
+	"stiva.h"
+
+1684865897 source:c:\users\asus\desktop\desktop backup\c++\teme_pa\lanparty3\tree5.c
+	"stiva.h"
+	"tree5.h"
+	"coada.h"
+
